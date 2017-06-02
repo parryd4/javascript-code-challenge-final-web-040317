@@ -20,7 +20,7 @@ $(document).ready(function(){
   // your code here!
   $('#photo-form').submit(function(e){
     e.preventDefault()
-    debugger
+    
     // doEverythingWithClass()
 
     readAndValidateForm()
